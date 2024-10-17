@@ -1,7 +1,7 @@
 - Clone the repo
 
 ```jsx
-git clone https://github.com/gb369rtl/PayEasy
+git clone https://github.com/gb369rtl/PayEasy.git
 ```
 
 - npm install
